@@ -2,7 +2,12 @@
   "manifest_version": 2,
   "name": "Soar CoinMarketCap.com",
   "description": "Provides enhanced abilities for CoinMarketCap.com",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
 
   "browser_action": {
     "default_icon": "icon.png",
